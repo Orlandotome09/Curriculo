@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+			"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<title>Curriculo Orlando</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+		<h1>Currículo Orlando</h1>
+        <img src="https://media.licdn.com/dms/image/C4D03AQHwLfmetBnIyQ/profile-displayphoto-shrink_200_200/0?e=1556755200&amp;v=beta&amp;t=0MAJ1r4f3LioWub35ZpCDqd2T2cJ8TPqneIiM2Gf8tQ" class="profile-photo-edit__preview" alt="Editar foto" height="128" width="128">
+
+		
+		<div class="secao">
+			<h2>Dados Pessoais</h2>			
+				<div id="hcard-Orlando-Augusto-Araújo-Tomé" class="vcard">
+				 <span class="given-name">Orlando</span>
+				  <span class="additional-name">Augusto</span>
+				  <span class="family-name">Tomé</span>
+				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
+
+				 <a class="email" href="mailto:Orlandotome09@yahoo.com.br">Orlandotome09@yahoo.com.br</a>
+				 <a class="url" href="https://www.linkedin.com/in/orlando-augusto-ara%C3%BAjo-tom%C3%A9-900842148/">Linkedin</a>
+				
+				<div class="adr">
+				  <span class="locality">Belo Horizonte</span>
+				, 
+				  <span class="region">MG</span>
+
+				 </div>
+				</div>
+		</div>
+
+		<div class="secao">
+			<h2>Dados Profissionais</h2>
+			
+			<p><label>Empresa</label>Sinqia</p>
+			<p><label>Cargo</label>Analista de QA</p>
+			<p><label>Setor</label>Qualidade de Software</p>
+		</div>
+
+		<div class="secao">
+			<h2>Formação Acadêmica</h2>
+			
+			<p><label>Curso</label>BDD - JAVA - CUCUMBER </p>
+			<p><label>Curso</label>Automação de Teste - Java - selenium Webdrive </p>
+			<p><label>Curso</label>Bacharel Sistema de Informação</p>
+			<p><label>Curso</label>Tecnico em Informatica</p>
+		</div>
+
+		<div class="secao">
+			<h2>Formação Complementar</h2>
+			<table>
+				<thead>
+				<tr>
+					<th>Curso</th>
+					<th>Carga horária</th>
+				
+				</tr>
+				<tr class="impar">
+					<td>Testes de Software</td>
+					<td>40h</td>
+				</tr>
+				<tr class="par">
+					<td>Ferramenta de Testes de Software</td>
+					<td>16h</td>
+				</tr>
+				<tr class="impar">
+					<td>Requisitos de Software</td>
+					<td>24h</td>
+				</tr>
+			</table>			
+		</div>
+        <div class="secao">
+            <h2>Experiencias</h2>
+
+            <p><label>AQS Tecnologia</label>Tester</p>
+            <p><label>Lemon Tecnologia</label>Desenvolvedor </p>
+            <p><label>Sinqia</label>Analista de QA</p>
+           
+        </div>
+
+
+		
+		<div id="footnote">
+			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
+			<li>Este <a href="http://microformats.org/wiki/hcard">hCard</a> foi criado com <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</li>
+		</div>		
+	</body>
+</html>
